@@ -1,2 +1,2 @@
 # toy_ds_project
-project creation date: 3/2/2025
+project creation date: February 3rd 2025
